@@ -1,10 +1,10 @@
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=100&color=00CC00&multiline=true&width=500&height=80&lines=Jacob+Frausto;MS+Student+%7C+Researcher+%7C+Engineer;ML+%7C+Computer+Vision+%7C+Data+Science" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=100&color=00CC00&multiline=true&width=500&height=80&lines=Jacob+Frausto;ML+Engineer+%7C+Researcher;LLMs+%7C+Recommender+Systems+%7C+Computer+Vision" alt="Typing SVG" /></a>
 
 <br/>
-<a href="https://frausto.tech/">
-    <img src="https://img.shields.io/badge/Website-frausto.tech-forest?style=flat-square">
+<a href="https://jfrausto.me/">
+    <img src="https://img.shields.io/badge/Website-jfrausto.me-forest?style=flat-square">
 </a>  
 <a href="https://frausto.tech/resume.html">
     <img src="https://img.shields.io/badge/about-Resume-forest?style=flat-square">
@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/jfrausto/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
-<a href="mailto:jacob_frausto@alumni.brown.edu">
+<a href="mailto:jfrausto@alumni.stanford.edu">
     <img src="https://img.shields.io/badge/-Email-forest?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <br/> 
@@ -24,11 +24,11 @@
 
 </p>
 
-* 📖 Pursuing MS in Computer Science w/ Specialization in AI @ [Stanford University](https://www.cs.stanford.edu/masters-program-overview). 
+* 💻 Currently a machine learning engineer at LinkedIn, where I work on recommender systems and agentic LLMs.
+
+* 📖 MS in Computer Science w/ Specialization in AI @ [Stanford University](https://www.cs.stanford.edu/masters-program-overview). 
 
 * 💡 Open to collaborating on projects and innovative ideas.
-
-* 💻 Currently interested in generative modeling, neural rendering, egocentric vision, and human-autonomy interactions.
 
 <details>
 <summary>📈 Stats</summary>
